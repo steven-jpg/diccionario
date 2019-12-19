@@ -1,0 +1,3 @@
+SIGNIFICADO: 		anotacion
+SIGNIFICADO: 		velor
+SIGNIFICADO: 		valores
